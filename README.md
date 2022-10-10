@@ -5,7 +5,7 @@
   
   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=edvinic&theme=solarized-light&layout=compact&card_width=600px)
   
-  ![edvinic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edvinic&theme=solarized-light&layout=compact)
+  ![edvinic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@edvinic&theme=solarized-light&layout=compact)
 
 </div>
 
